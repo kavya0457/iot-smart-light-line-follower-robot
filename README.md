@@ -12,7 +12,7 @@ A simple beginner project using Arduino to blink an LED on and off every 1 secon
 ![LED Circuit](led_blink_diagram.png)
 
 ## 💻 Code
-Check the file: `led_blink.ino`
+Check the file: `led_blink.ino.txt`
 
 ## 🔄 How it Works
 The code turns the LED ON for 1 second, then OFF for 1 second in a continuous loop.
